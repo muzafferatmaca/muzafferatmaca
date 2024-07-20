@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Muzaffer Atmaca
 
 # 💫 About Me:
-🔭 Currently working on... Developing an application for representatives of a pharmaceutical company. Additionally, during my free time, I am working on an AI chatbot application that I am developing myself.<br>🌱 Currently learning... Exploring advanced topics in Android app development processes and striving to implement this knowledge into my projects.<br>💬 Ask me about... If you have any questions about Android app development, Kotlin and Java programming languages, mobile app design, or general technology topics, feel free to ask.<br>📫 How to reach me: ... You can reach out to me on my LinkedIn profile https://www.linkedin.com/in/muzafferatmaca/ or via email at muzafferatmaca@gmail.com.
+🔭 Currently working on... Developing an application for representatives of a pharmaceutical company. Additionally, during my free time, I am working on compose.<br>🌱 Currently learning... Exploring advanced topics in Android app development processes and striving to implement this knowledge into my projects.<br>💬 Ask me about... If you have any questions about Android app development, Kotlin and Java programming languages, mobile app design, or general technology topics, feel free to ask.<br>📫 How to reach me: ... You can reach out to me on my LinkedIn profile https://www.linkedin.com/in/muzafferatmaca/ or via email at muzafferatmaca@gmail.com.
 
 
 ## 🌐 Socials:
